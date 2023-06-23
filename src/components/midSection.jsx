@@ -8,7 +8,7 @@ function midSection(){
             <h1 style={{color:"#4300FF"}}>BITS Pilani</h1>
             <input type="text" placeholder="Seacrh for items.."/>
          </div>
-         <img src={require("./pngwing 1.png")} alt="" />
+         <img src={require("../images/pngwing 1.png")} alt="" />
     </div>
 }
 
