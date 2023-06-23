@@ -163,14 +163,62 @@ h5{
 .form{
   display: flex;
   flex-direction:column ;
+  width: 50%;
 }
 .form div{
   display: flex;
   flex-direction: row;
-  
+  width: 100%;  
+  margin-bottom: 25px;
+}
+.btn{
+  margin-right: 20px;
+  padding: 10px;
+  border-radius:15px;
+  width: 25%;
+}
+.submitBtn{
+  width: 60%;
+  background:linear-gradient(155deg,#57A6D6 30%,#B455D6 100%);
+  height: 50px;
+  border-radius: 15px;
+  font-size:20px ;
+  align-items: center;
+  color: #fff;
+  font-weight: 200;
+  font-family:'Inter', sans-serif;
+  margin-top: 20px;
+
 }
 
 
+.form .textbox{
+  width: 500px;
+  height: 40px;
+  margin-top: 15px;
+  padding: 10px;
+  border-radius: 15px;
+  
+}
 
-
+.addImgDiv{
+  display: flex;
+  flex-direction:column;
+  padding: 10px;
+  border: 2px solid #000;
+  border-radius: 15px;
+  
+}
+.btnDiv{
+  display: flex;
+  flex-direction: row;
+  align-items:center;
+  justify-content: center;
+}
+.itemAdd{
+  display: flex;
+  flex-direction: row;
+  justify-content:center;
+  padding: 20px;
+}
 /* ############################################ Add Items ##################################3 */

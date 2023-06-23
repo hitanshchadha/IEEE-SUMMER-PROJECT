@@ -1,5 +1,6 @@
 import React from "react";
-
+import Details from "./components/details";
+import AddImage from "./components/addImage";
 function addItems(){
     const style={
         fontSize:"40px",
@@ -11,6 +12,11 @@ function addItems(){
     return (
         <div>
             <h1 style={style}>ADD ITEMS</h1>
+            <div className="itemAdd">
+            <AddImage />
+            <Details />
+            </div>
+            
         </div>
     )
 }
