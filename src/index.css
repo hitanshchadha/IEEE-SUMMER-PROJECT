@@ -6,7 +6,7 @@ body{
 }
 
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;900&family=Kumbh+Sans:wght@500&family=Roboto:wght@500&display=swap');
+
 
 /* h1{
   font-family:'Inter', sans-serif;
@@ -33,7 +33,7 @@ body{
   padding: 0;
 }
 .links  a{
-  font-family: Inter;
+  font-family: "Inter",sans-serif;
   font-weight: 400;
   font-size: 18px;
   text-decoration: none;
@@ -43,10 +43,7 @@ body{
   color: black;
 
 }
-.links li:hover{
-  box-shadow: inset 0px 0px 5px 5px gray;
-  
-}
+
 .logo-img{
   width: 190px;
 }
@@ -171,11 +168,38 @@ h5{
   width: 100%;  
   margin-bottom: 25px;
 }
+
 .btn{
   margin-right: 20px;
   padding: 10px;
   border-radius:15px;
   width: 25%;
+  font-family: 'Inter',sans-serif;
+  font-weight: 900;
+  border: #fff;
+  box-shadow: 0px 5px 5px grey;
+}
+.btn1-active{
+  margin-right: 20px;
+  padding: 10px;
+  border-radius:15px;
+  width: 25%;
+  font-family: 'Inter',sans-serif;
+  font-weight: 600;
+  color: #fff;
+  border: 2px solid black;
+   background-color: #FF6060;
+}
+.btn2-active{
+  margin-right: 20px;
+  padding: 10px;
+  border-radius:15px;
+  width: 25%;
+  font-family: 'Inter',sans-serif;
+  font-weight: 900;
+  color: #fff;
+  border: 2px solid black;
+  background-color: rgb(39, 63, 4);
 }
 .submitBtn{
   width: 60%;
@@ -198,7 +222,8 @@ h5{
   margin-top: 15px;
   padding: 10px;
   border-radius: 15px;
-  
+  border: 2px solid black;
+
 }
 
 .addImgDiv{
@@ -220,5 +245,8 @@ h5{
   flex-direction: row;
   justify-content:center;
   padding: 20px;
+}
+#file{
+display: none;
 }
 /* ############################################ Add Items ##################################3 */

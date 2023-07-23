@@ -10,3 +10,4 @@ const footer=ReactDOM.createRoot(document.getElementById('footer'));
 footer.render(
   <Footer />
 );
+
