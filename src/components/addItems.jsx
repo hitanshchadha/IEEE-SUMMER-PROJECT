@@ -1,5 +1,4 @@
 import React from "react";
-<<<<<<< HEAD:src/addItems.jsx
 import {useState} from "react"
 import Item from "./index.js"
 
@@ -73,11 +72,8 @@ function handleChange(event){
         height:"355px",
         width:"355px",
     }
-=======
-import Details from "./details";
-import AddImage from "./addImage";
-function addItems(){
->>>>>>> 4f69e03f653fcd3cb9e31b04d62217d3dc9071c9:src/components/addItems.jsx
+
+
     const style={
         fontSize:"40px",
         lineHeight:"60.51px",
