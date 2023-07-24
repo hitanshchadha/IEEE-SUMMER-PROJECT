@@ -36,9 +36,16 @@ function CardsRow(){
         location="Krishna QT"
         date="21st April"
         />
-        <div className="viewMore">
+        <Card 
+        status1="Lost"
+        itemName="Speaker"
+        time="7:05 PM"
+        location="Krishna QT"
+        date="21st April"
+        />
+        {/* <div className="viewMore">
             <h4 style={{fontFamily:"'Inter', sans-serif"}}>View More</h4>
         </div>
-    </div>
-}
+    </div> */}
+</div>}
 export default CardsRow;
