@@ -11,3 +11,11 @@ footer.render(
   <Footer />
 );
 
+function Item(title,location,date,contact){
+  this.title=title;
+  this.location=location;
+  this.date=date;
+  this.contact=contact;
+};
+
+export default Item;
