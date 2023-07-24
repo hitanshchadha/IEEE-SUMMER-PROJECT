@@ -1,6 +1,6 @@
 import React from "react";
 import LandingPage from "./LandingPage.jsx";
-import AddItems from "./addItems.jsx";
+import AddItems from "./components/addItems.jsx";
 import Navbar from "./components/navbar.jsx";
 import {
    BrowserRouter as Router,

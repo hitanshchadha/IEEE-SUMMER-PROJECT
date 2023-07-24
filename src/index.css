@@ -155,6 +155,19 @@ h5{
 .viewMore h4{
   margin-top: 50%;
 }
+.status1{
+  color: white;
+  position: absolute;
+  margin: 1%;
+  font-size: 25px;
+  background-color: #FF6060;
+  padding: 10px;
+  border-radius: 10px;
+  font-family: 'Courier New', Courier, monospace;
+
+}
+
+
 
 /* ############################################ Add Items ##################################3 */
 .form{

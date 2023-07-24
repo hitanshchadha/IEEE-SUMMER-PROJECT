@@ -12,6 +12,7 @@ function landingPage(){
   <h1 style={{textAlign:"center"}}>RECENTLY LOST</h1>
   <CardsRow />
   <h1 style={{textAlign:"center"}}>RECENTLY FOUND</h1>
+  <CardsRow />
     </div>
   )
 

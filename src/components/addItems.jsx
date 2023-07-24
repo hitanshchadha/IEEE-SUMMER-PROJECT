@@ -1,6 +1,6 @@
 import React from "react";
-import Details from "./components/details";
-import AddImage from "./components/addImage";
+import Details from "./details";
+import AddImage from "./addImage";
 function addItems(){
     const style={
         fontSize:"40px",

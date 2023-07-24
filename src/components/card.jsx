@@ -10,6 +10,8 @@ function Card(props){
        borderRadius:"15px"
     }
     return <div style={cardStyle} className="card">
+        <div className="status1"><h5>{props.status1}</h5></div>
+        <div className="status2"><h5>{props.status2}</h5></div>
         <img src={require("../images/Rectangle-4.png")} alt="" />
         <div className="card-text">
         <div  className="card-line">
