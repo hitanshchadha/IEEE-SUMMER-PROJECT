@@ -6,15 +6,14 @@ function Details(){
     const [Title,setTitle]=useState("Keys");
     function handleClick1(event){
         setisActive1(!isactive1)
+        setisActive2(false)
         console.log(isactive1)
     }
     function handleClick2(event){
         setisActive2(!isactive2)
+        setisActive1(false)
     }
-    function handleTitleChange(event){
-
-
-    }
+    
 
     return (
         <div className="form">
