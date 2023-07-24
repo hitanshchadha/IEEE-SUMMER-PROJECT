@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/IEEE-SUMMER-PROJECT/static/css/main.d2f85519.css",
-    "main.js": "/IEEE-SUMMER-PROJECT/static/js/main.c98ccbe4.js",
+    "main.css": "/IEEE-SUMMER-PROJECT/static/css/main.3870450f.css",
+    "main.js": "/IEEE-SUMMER-PROJECT/static/js/main.69ab7fc1.js",
     "static/media/Rectangle-4.png": "/IEEE-SUMMER-PROJECT/static/media/Rectangle-4.06e8445a3ab4d322e082.png",
+    "static/media/camera.png": "/IEEE-SUMMER-PROJECT/static/media/camera.03f370d81e0fc35033cf.png",
     "static/media/pngwing 1.png": "/IEEE-SUMMER-PROJECT/static/media/pngwing 1.718ccbd7acbe7d43fe2e.png",
     "static/media/image-259.png": "/IEEE-SUMMER-PROJECT/static/media/image-259.76e6f2a814b05d3b1395.png",
     "index.html": "/IEEE-SUMMER-PROJECT/index.html",
-    "main.d2f85519.css.map": "/IEEE-SUMMER-PROJECT/static/css/main.d2f85519.css.map",
-    "main.c98ccbe4.js.map": "/IEEE-SUMMER-PROJECT/static/js/main.c98ccbe4.js.map"
+    "main.3870450f.css.map": "/IEEE-SUMMER-PROJECT/static/css/main.3870450f.css.map",
+    "main.69ab7fc1.js.map": "/IEEE-SUMMER-PROJECT/static/js/main.69ab7fc1.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2f85519.css",
-    "static/js/main.c98ccbe4.js"
+    "static/css/main.3870450f.css",
+    "static/js/main.69ab7fc1.js"
   ]
 }
