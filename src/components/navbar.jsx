@@ -13,7 +13,7 @@ function Navbar(){
             </ul>
           </div>
           
-          <button className="registerButton"><img style={{paddingRight:"10px"}} src={require("../images/googleIcon.png")} alt="" /> SIGN IN</button>
+          <button className="registerButton"><img style={{paddingRight:"15px"}} src={require("../images/googleIcon.png")} alt="" /><b/> SIGN IN</button>
     </div>
 }
 export default Navbar;
