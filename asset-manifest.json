@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.3870450f.css",
-    "main.js": "/static/js/main.76711ff1.js",
-    "static/media/Rectangle-4.png": "/static/media/Rectangle-4.06e8445a3ab4d322e082.png",
-    "static/media/camera.png": "/static/media/camera.03f370d81e0fc35033cf.png",
-    "static/media/pngwing 1.png": "/static/media/pngwing 1.718ccbd7acbe7d43fe2e.png",
-    "static/media/image-259.png": "/static/media/image-259.76e6f2a814b05d3b1395.png",
-    "index.html": "/index.html",
-    "main.3870450f.css.map": "/static/css/main.3870450f.css.map",
-    "main.76711ff1.js.map": "/static/js/main.76711ff1.js.map"
+    "main.css": "/IEEE-SUMMER-PROJECT/home/static/css/main.3870450f.css",
+    "main.js": "/IEEE-SUMMER-PROJECT/home/static/js/main.60cf53b4.js",
+    "static/media/Rectangle-4.png": "/IEEE-SUMMER-PROJECT/home/static/media/Rectangle-4.06e8445a3ab4d322e082.png",
+    "static/media/camera.png": "/IEEE-SUMMER-PROJECT/home/static/media/camera.03f370d81e0fc35033cf.png",
+    "static/media/pngwing 1.png": "/IEEE-SUMMER-PROJECT/home/static/media/pngwing 1.718ccbd7acbe7d43fe2e.png",
+    "static/media/image-259.png": "/IEEE-SUMMER-PROJECT/home/static/media/image-259.76e6f2a814b05d3b1395.png",
+    "index.html": "/IEEE-SUMMER-PROJECT/home/index.html",
+    "main.3870450f.css.map": "/IEEE-SUMMER-PROJECT/home/static/css/main.3870450f.css.map",
+    "main.60cf53b4.js.map": "/IEEE-SUMMER-PROJECT/home/static/js/main.60cf53b4.js.map"
   },
   "entrypoints": [
     "static/css/main.3870450f.css",
-    "static/js/main.76711ff1.js"
+    "static/js/main.60cf53b4.js"
   ]
 }
